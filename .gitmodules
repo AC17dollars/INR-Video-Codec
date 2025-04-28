@@ -1,0 +1,6 @@
+[submodule "documentation"]
+	path = documentation
+	url = git@github.com:AC17dollars/Major-Project-Latex-Report.git
+[submodule "code"]
+	path = code
+	url = git@github.com:AC17dollars/SIREN_GUI.git
